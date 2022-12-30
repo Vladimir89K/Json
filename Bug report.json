@@ -1,0 +1,14 @@
+{
+  "1" : "Title",
+  "2" : "Severity",
+  "3" : "Priority",
+  "4" : "Steps to reproduse",
+  "5" : "Expected result",
+  "6" : "Environment",
+  "7" : "Attachment",
+  "8" : "Author",
+  "9" : "Status",
+  "10" : "precondition",
+  "11" : "id",
+  "12" : "project"
+}
